@@ -7,7 +7,7 @@
 <p> Make sure you have pandas installed</p>
 <p> Modify line 16 to your own directory </p>
 
-```		python3		clean_grading.py		-f		filename.csv
+```
 
-
+	python3		clean_grading.py		-f		filename.csv
 ```
