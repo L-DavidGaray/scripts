@@ -6,4 +6,4 @@
 <p> how to use: export .xls grading file to .csv & edit file name so there are no whitespaces in title.
 <p> Make sure you have pandas installed</p>
 <p> Modify line 16 to your own directory </p>
-<p>	&nbsp;&nbsp;python3	&nbsp;&nbsp;clean_grading.py	&nbsp;&nbsp;	-f&nbsp;&nbsp;	filename.csv </p>
+``&nbsp;&nbsp;python3	&nbsp;&nbsp;clean_grading.py	&nbsp;&nbsp;	-f&nbsp;&nbsp;	filename.csv``
